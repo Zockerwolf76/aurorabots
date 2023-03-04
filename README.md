@@ -13,7 +13,7 @@
     </a>
 </p>
 
-<p align="center">A Fortnite HTTP/XMPP bot coded in Python with party capabilities.</p>
+<p align="center">A Fortnite Lobbybot coded in Python with party capabilities.</p>
 
 ---
 
@@ -48,6 +48,10 @@ No.
 #### Is it free?
 
 Yes, it is 100% free to use.
+
+#### Will it work?
+
+it worked a long time ago soooooo... i'm not sure
 
 
 
