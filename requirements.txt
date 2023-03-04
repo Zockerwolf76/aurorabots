@@ -1,0 +1,11 @@
+fortnitepy
+asyncio
+logging
+sys
+crayons
+aiohttp
+FortniteAPIAsync
+json
+datetime
+webbrowser
+platform
