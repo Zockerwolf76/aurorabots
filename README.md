@@ -2,8 +2,8 @@
 <h1 align="center">AURORABOT</h1>
 
 <p align="center">
-    <a href="[https://pepy.tech/project/fnlobbybot]" align="center">
-        <img alt="Downloads" src="https://pepy.tech/badge/fnlobbybot">
+    <a href="[https://pepy.tech/project/aurorabot]" align="center">
+        <img alt="Downloads" src="https://pepy.tech/badge/aurorabot">
     </a>
     <a href="https://www.python.org/downloads/release/python-361/" align="center">
         <img alt="Python" src="https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue">
