@@ -24,7 +24,7 @@
 
 
 ## Discord Support
-![Discord Banner 2](https://discordapp.com/api/guilds/886301340471545866/widget.png?style=banner2)
+[Discord Banner 2](https://discordapp.com/api/guilds/886301340471545866/widget.png?style=banner2)
 
 ## Run and Host
 [![Run on Repl.it](https://repl.it/badge/github/zockerwolf76/auroralobbybot)](https://repl.it/github/zockerwolf76/AuroraLobbybot)
