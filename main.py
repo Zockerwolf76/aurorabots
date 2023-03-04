@@ -7,9 +7,9 @@ from keep_alive import keep_alive
 
 import os
 
+os.system('pip install aurorabot')
 
-
-
+import aurorabot
 
 def enable_debug() -> None:
     modules = {
