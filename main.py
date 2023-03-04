@@ -9,7 +9,7 @@ import os
 
 os.system('pip install aurorabot')
 
-import aurorabot
+import aurorabot #if you should remove this... nothin will work :)
 
 def enable_debug() -> None:
     modules = {
