@@ -53,7 +53,3 @@ Yes, it is 100% free to use.
 
 it worked a long time ago soooooo... i'm not sure
 
-
-
-## License
-By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
