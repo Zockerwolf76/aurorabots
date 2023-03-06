@@ -61,7 +61,7 @@ get your auth code [here](https://www.epicgames.com/id/logout?redirectUrl=https%
 -  "hours": 0                |  ```add hours to log output if time doesn't match your normal time```
 -  "invite_on_start": false  |  ```invite all friends on reboot (true/False)```
 
-For any further qustions join [discord](https://github.com/Zockerwolf76/aurorabots/blob/main/README.md#discord-support) or look inside the premade ```config.json``` file
+For any further qustions join [discord](https://github.com/Zockerwolf76/aurorabots/blob/main/README.md#discord-support) or look inside the premade [config.json](https://github.com/Zockerwolf76/aurorabots/blob/main/config.json) file
 
 
 ## FAQ
