@@ -1,16 +1,15 @@
 {
-    "cid": "CID_028_Athena_Commando_F", //Outfit on reboot
-    "bid": "BID_023_Pinkbear",          //Backpack on reboot
-    "eid": "EID_NoDance",               //standart emote/dance
-    "pickaxe_id": "Pickaxe_Lockjaw",    //pickaxe on reboot
-    "banner": "otherbanner51",          //banner
-    "banner_colour": "defaultcolor22",  //banner color
-    "level": 999,                       //level
-    "bp_tier": 999999999,               //BP level
-    "platform": "WIN",                  //platform
+    "cid": "CID_028_Athena_Commando_F", 
+    "bid": "BID_023_Pinkbear",          
+    "eid": "EID_NoDance",               
+    "pickaxe_id": "Pickaxe_Lockjaw",    
+    "banner": "otherbanner51",          
+    "banner_colour": "defaultcolor22",  
+    "level": 999,                       
+    "bp_tier": 999999999,               
+    "platform": "WIN",                 
     "debug": false,
-    "friend_accept": true,              //accept all friend requests (True | False)
-    "owner": "",                        //Your Epic Games Username (for Admin commands)
-    "hours": 0,                         //add bonus hours if log doesn't match normal time
-    "invite_on_start": false            //invite every friend on reboot (True | False)
-}
+    "friend_accept": true,              
+    "owner": "",                       
+    "hours": 0,                         
+    "invite_on_start": false            
