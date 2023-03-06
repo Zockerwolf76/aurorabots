@@ -18,12 +18,12 @@
 ---
 
 
-## Creator
+## Creator:
 
 - [@Zockerwolf76](https://www.github.com/zockerwolf76)
 
 
-## Discord Support
+## Discord Support:
 <a href="https://dsc.gg/zockerwolf"><img src="https://discordapp.com/api/guilds/886301340471545866/widget.png?style=banner2"></a>
 
 ## Run and Host:
@@ -44,27 +44,31 @@ get your auth code [here](https://www.epicgames.com/id/logout?redirectUrl=https%
 - Login (DONT USE YOUR MAIN ACC)
 - Bot should start normally
 
-### config.json
 
-- "cid": ""                  |  ```set default outfit```
-- "bid": ""                  |  ```ser default backpack```
-- "eid": ""                  |  ```set default emote```
-- "pickaxe_id": ""           |  ```set default pickaxe```
-- "banner": ""               |  ```set default banner```
--  "banner_colour": ""       |  ```set default banner color```
--  "level": 0                |  ```set default Level```
--  "bp_tier": 0              |  ```set default BattlePass Level ```
--  "platform": ""            |  ```set default platform```
--  "debug": false            |  ```dont touch it ok? :)```
--  "friend_accept": true     |  ```automatically accept friend requests (true/false)```
--  "owner": ""               |  ```Username that is allowed to use Admin commands```
--  "hours": 0                |  ```add hours to log output if time doesn't match your normal time```
--  "invite_on_start": false  |  ```invite all friends on reboot (true/False)```
+## Setup:
+
+
+### config.json:
+
+- ```"cid": ""```                  |  set default outfit
+- ```"bid": ""```                  |  set default backpack
+- ```"eid": ""```                  |  set default emote
+- ```"pickaxe_id": ""```           |  set default pickaxe
+- ```"banner": ""```               |  set default banner
+-  ```"banner_colour": ""```       |  set default banner color
+-  ```"level": 0```                |  set default Level
+-  ```"bp_tier": 0```              |  set default BattlePass Level 
+-  ```"platform": ""```            |  set default platform
+-  ```"friend_accept": true```     |  automatically accept friend requests (true/false)
+-  ```"owner": ""```               |  username that is allowed to use Admin commands
+-  ```"hours": 0```                |  add hours to log output if time doesn't match your normal time
+-  ```"invite_on_start": false```  |  invite all friends on reboot (true/False)
 
 For any further qustions join [discord](https://github.com/Zockerwolf76/aurorabots/blob/main/README.md#discord-support) or look inside the premade [config.json](https://github.com/Zockerwolf76/aurorabots/blob/main/config.json) file
 
 
-## FAQ
+
+## FAQ:
 
 #### Is it bannable?
 
