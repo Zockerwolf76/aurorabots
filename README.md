@@ -56,10 +56,12 @@ get your auth code [here](https://www.epicgames.com/id/logout?redirectUrl=https%
 -  "bp_tier": 0              |  ```set default BattlePass Level ```
 -  "platform": ""            |  ```set default platform```
 -  "debug": false            |  ```dont touch it ok? :)```
--  "friend_accept": true     |  ```automatically accept friend requests (true/false)
+-  "friend_accept": true     |  ```automatically accept friend requests (true/false)```
 -  "owner": ""               |  ```Username that is allowed to use Admin commands```
 -  "hours": 0                |  ```add hours to log output if time doesn't match your normal time```
 -  "invite_on_start": false  |  ```invite all friends on reboot (true/False)```
+
+- For any further qustions join discord or look inside the premade ```config.json``` file
 
 
 ## FAQ
