@@ -70,6 +70,10 @@ For any further qustions join my [discord](https://github.com/Zockerwolf76/auror
 
 - for a list of all available Commands use the ```!help``` command ingame or use the ```/help``` command inside my [discord](https://github.com/Zockerwolf76/aurorabots/blob/main/README.md#discord-support) server  
 
+## issues:
+
+- in Case of any issues create a [issue]() on github
+
 ## FAQ:
 
 #### Is it bannable?
