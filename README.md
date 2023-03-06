@@ -36,9 +36,10 @@ get your auth code [here](https://www.epicgames.com/id/logout?redirectUrl=https%
 
 ### VSCode 
 
-• Download source Code
-• Run ```main.py``` within VSCode
-• Browser Tab should automatically Open, where you should be able to Login (DO NOT WITH YOUR MAIN ACC)
+- Download source Code
+- Run ```main.py``` in VSCode
+- Login (DONT USE YOUR MAIN ACC)
+- Bot should start normally
 
 
 
