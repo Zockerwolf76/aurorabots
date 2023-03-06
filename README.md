@@ -66,7 +66,9 @@ get your auth code [here](https://www.epicgames.com/id/logout?redirectUrl=https%
 
 For any further qustions join [discord](https://github.com/Zockerwolf76/aurorabots/blob/main/README.md#discord-support) or look inside the premade [config.json](https://github.com/Zockerwolf76/aurorabots/blob/main/config.json) file
 
+### Commands:
 
+- for a list of all available Commands use the ```!help``` command ingame or use the ```/help``` command inside my [discord](https://github.com/Zockerwolf76/aurorabots/blob/main/README.md#discord-support) server  
 
 ## FAQ:
 
