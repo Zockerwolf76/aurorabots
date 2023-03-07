@@ -1,4 +1,4 @@
-<img src="https://github.com/Zockerwolf76/aurorabots/blob/main/images/logo.png">
+<img src="https://github.com/Zockerwolf76/aurorabots/blob/main/images/new_logo.png">
 
 <p align="center">
     <a href="[https://pepy.tech/project/aurorabot]" align="center">
