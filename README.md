@@ -1,5 +1,4 @@
-
-<h1 align="center">AURORABOT</h1>
+<img src="https://github.com/Zockerwolf76/aurorabots/blob/main/images/logo.png">
 
 <p align="center">
     <a href="[https://pepy.tech/project/aurorabot]" align="center">
